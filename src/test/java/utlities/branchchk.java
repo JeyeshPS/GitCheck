@@ -6,6 +6,7 @@ public class branchchk {
 		// TODO Auto-generated method stub
 
 		System.out.println(" chk");
+		System.out.println(" chk3");
 
 	}
 
